@@ -12,7 +12,7 @@
     <TargetDatasetFolder>Наборы данных</TargetDatasetFolder>
     <TargetDatasourceFolder>Источники данных</TargetDatasourceFolder>
     <TargetReportPartFolder>Отчеты</TargetReportPartFolder>
-    <TargetServerURL>http://felon/ReportServer/</TargetServerURL>
+    <TargetServerURL>http://felon/ReportServer</TargetServerURL>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)' == 'DebugLocal' ">
     <FullPath>DebugLocal</FullPath>
@@ -50,9 +50,11 @@
   </PropertyGroup>
   <ItemGroup>
     <DataSource Include="Product.rds" />
+    <DataSource Include="ReportBI.rds" />
   </ItemGroup>
   <ItemGroup>
     <Report Include="ProducktInfo.rdl" />
+    <Report Include="Users.rdl" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Reporting Services\Microsoft.ReportingServices.MSBuilder.targets" />
 </Project>
