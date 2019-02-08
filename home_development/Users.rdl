@@ -89,7 +89,7 @@ FROM            Users left JOIN
                   <Width>2.5cm</Width>
                 </TablixColumn>
                 <TablixColumn>
-                  <Width>2.5cm</Width>
+                  <Width>3.4525cm</Width>
                 </TablixColumn>
               </TablixColumns>
               <TablixRows>
@@ -703,7 +703,7 @@ FROM            Users left JOIN
             </TablixRowHierarchy>
             <DataSetName>Users</DataSetName>
             <Height>1.2cm</Height>
-            <Width>26.12479cm</Width>
+            <Width>27.07729cm</Width>
             <Style>
               <Border>
                 <Style>None</Style>
@@ -714,7 +714,7 @@ FROM            Users left JOIN
         <Height>2in</Height>
         <Style />
       </Body>
-      <Width>10.28535in</Width>
+      <Width>10.66035in</Width>
       <Page>
         <PageHeight>29.7cm</PageHeight>
         <PageWidth>21cm</PageWidth>
