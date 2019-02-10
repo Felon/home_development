@@ -2,7 +2,7 @@
 <RptDataSource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="ReportBI">
   <ConnectionProperties>
     <Extension>SQL</Extension>
-    <ConnectString>Data Source=felon;Initial Catalog=ReportServerPB</ConnectString>
+    <ConnectString>Data Source=FELONPC\FELONSQL;Initial Catalog=ReportServerPB</ConnectString>
     <IntegratedSecurity>true</IntegratedSecurity>
   </ConnectionProperties>
   <DataSourceID>9ff662c5-5044-4c4e-8545-145d3df338b3</DataSourceID>

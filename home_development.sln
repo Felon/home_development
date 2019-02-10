@@ -5,21 +5,33 @@ VisualStudioVersion = 15.0.27703.2026
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{F14B399A-7131-4C87-9E4B-1186C45EF12D}") = "ReportsPowerBI", "home_development\ReportsPowerBI.rptproj", "{8D080566-3F16-4D79-BD4B-775D3A79D876}"
 EndProject
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "Produkt", "..\..\Produkt\Produkt.sqlproj", "{A4A9E601-0274-4FCA-B545-7BDF0BB1CAA1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
-		Debug|Default = Debug|Default
-		DebugLocal|Default = DebugLocal|Default
-		Release|Default = Release|Default
+		Debug|Any CPU = Debug|Any CPU
+		DebugLocal|Any CPU = DebugLocal|Any CPU
+		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{8D080566-3F16-4D79-BD4B-775D3A79D876}.Debug|Default.ActiveCfg = Debug
-		{8D080566-3F16-4D79-BD4B-775D3A79D876}.Debug|Default.Build.0 = Debug
-		{8D080566-3F16-4D79-BD4B-775D3A79D876}.Debug|Default.Deploy.0 = Debug
-		{8D080566-3F16-4D79-BD4B-775D3A79D876}.DebugLocal|Default.ActiveCfg = DebugLocal
-		{8D080566-3F16-4D79-BD4B-775D3A79D876}.DebugLocal|Default.Build.0 = DebugLocal
-		{8D080566-3F16-4D79-BD4B-775D3A79D876}.Release|Default.ActiveCfg = Release
-		{8D080566-3F16-4D79-BD4B-775D3A79D876}.Release|Default.Build.0 = Release
-		{8D080566-3F16-4D79-BD4B-775D3A79D876}.Release|Default.Deploy.0 = Release
+		{8D080566-3F16-4D79-BD4B-775D3A79D876}.Debug|Any CPU.ActiveCfg = Debug
+		{8D080566-3F16-4D79-BD4B-775D3A79D876}.Debug|Any CPU.Build.0 = Debug
+		{8D080566-3F16-4D79-BD4B-775D3A79D876}.Debug|Any CPU.Deploy.0 = Debug
+		{8D080566-3F16-4D79-BD4B-775D3A79D876}.DebugLocal|Any CPU.ActiveCfg = DebugLocal
+		{8D080566-3F16-4D79-BD4B-775D3A79D876}.DebugLocal|Any CPU.Build.0 = DebugLocal
+		{8D080566-3F16-4D79-BD4B-775D3A79D876}.DebugLocal|Any CPU.Deploy.0 = DebugLocal
+		{8D080566-3F16-4D79-BD4B-775D3A79D876}.Release|Any CPU.ActiveCfg = Release
+		{8D080566-3F16-4D79-BD4B-775D3A79D876}.Release|Any CPU.Build.0 = Release
+		{8D080566-3F16-4D79-BD4B-775D3A79D876}.Release|Any CPU.Deploy.0 = Release
+		{A4A9E601-0274-4FCA-B545-7BDF0BB1CAA1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4A9E601-0274-4FCA-B545-7BDF0BB1CAA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4A9E601-0274-4FCA-B545-7BDF0BB1CAA1}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{A4A9E601-0274-4FCA-B545-7BDF0BB1CAA1}.DebugLocal|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4A9E601-0274-4FCA-B545-7BDF0BB1CAA1}.DebugLocal|Any CPU.Build.0 = Debug|Any CPU
+		{A4A9E601-0274-4FCA-B545-7BDF0BB1CAA1}.DebugLocal|Any CPU.Deploy.0 = Debug|Any CPU
+		{A4A9E601-0274-4FCA-B545-7BDF0BB1CAA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4A9E601-0274-4FCA-B545-7BDF0BB1CAA1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A4A9E601-0274-4FCA-B545-7BDF0BB1CAA1}.Release|Any CPU.Deploy.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

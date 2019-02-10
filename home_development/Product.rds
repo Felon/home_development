@@ -2,7 +2,7 @@
 <RptDataSource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="Product">
   <ConnectionProperties>
     <Extension>SQL</Extension>
-    <ConnectString>Data Source=FELON;Initial Catalog=Produckt</ConnectString>
+    <ConnectString>Data Source=FELONPC\FELONSQL;Initial Catalog=Produckt</ConnectString>
     <IntegratedSecurity>true</IntegratedSecurity>
   </ConnectionProperties>
   <DataSourceID>a5b959e4-0f04-4ddf-b258-26c9255fe063</DataSourceID>
